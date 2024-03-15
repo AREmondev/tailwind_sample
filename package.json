@@ -4,7 +4,7 @@
   "description": "Play with Tailwind CSS 3 - Learn with Sumit",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./src/style.css -o ./dist/styles.css --watch"
+    "build": "npx tailwindcss -i ./src/style.css -o ./dist/styles.css"
   },
   "keywords": [],
   "author": "Sumit Saha",
